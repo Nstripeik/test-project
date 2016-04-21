@@ -2,3 +2,4 @@ lake
 forest
 mountain 
 plains
+streams
