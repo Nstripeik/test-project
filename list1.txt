@@ -2,3 +2,5 @@ carrots
 corn 
 fish 
 buns
+chicken
+hotdogs
